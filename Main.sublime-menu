@@ -1,0 +1,13 @@
+[
+    {
+        "id": "selection",
+        "caption": "Selection",
+        "children":
+        [
+                    {
+                        "caption": "Goto Selection",
+                        "command": "goto_selection"
+                    },
+        ]
+    }
+]

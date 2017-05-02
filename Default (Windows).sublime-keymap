@@ -1,0 +1,5 @@
+[
+  {
+        "keys": ["ctrl+p"], "command": "goto_selection"
+  }
+]
