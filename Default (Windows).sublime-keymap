@@ -1,5 +1,5 @@
 [
   {
-        "keys": ["ctrl+p"], "command": "goto_selection"
+        "keys": ["ctrl+shift+p"], "command": "goto_selection"
   }
 ]
